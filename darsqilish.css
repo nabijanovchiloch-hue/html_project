@@ -1,0 +1,33 @@
+header{
+    background-color: coral;
+    color: black;
+}
+label{
+    color: gold;
+    border-radius: 30px;
+}
+button{
+    background-color: green;
+    color: white;
+    border-radius: 30px;
+    width: 300px;
+    height: 20px;
+}
+body{
+    text-align: center;
+    background-color: white;
+}
+input{
+    background-color: white;
+    border-radius: 30px;
+}
+main{
+    background-color: black;
+}
+
+
+
+
+
+
+
